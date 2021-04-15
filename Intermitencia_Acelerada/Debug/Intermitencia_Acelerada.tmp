@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.8</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\Javi\Documents\Atmel Studio\7.0\Intermitencia_Acelerada\Intermitencia_Acelerada\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\Javi\Documents\Atmel Studio\7.0\Intermitencia_Acelerada\Intermitencia_Acelerada\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.6.364\avrasm\inc\m328Pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\Javi\Documents\Atmel Studio\7.0\Intermitencia_Acelerada\Intermitencia_Acelerada\Debug\Intermitencia_Acelerada.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>Intermitencia_Acelerada.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>Intermitencia_Acelerada.map</FILE>
+  <FILE>Intermitencia_Acelerada.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <main><FILE>C:\Users\Javi\Documents\Atmel Studio\7.0\Intermitencia_Acelerada\Intermitencia_Acelerada\main.asm</FILE><LINE>15</LINE></main>
+  <bucle><FILE>C:\Users\Javi\Documents\Atmel Studio\7.0\Intermitencia_Acelerada\Intermitencia_Acelerada\main.asm</FILE><LINE>19</LINE></bucle>
+  <delay_10><FILE>C:\Users\Javi\Documents\Atmel Studio\7.0\Intermitencia_Acelerada\Intermitencia_Acelerada\main.asm</FILE><LINE>50</LINE></delay_10>
+  <repeticiones><FILE>C:\Users\Javi\Documents\Atmel Studio\7.0\Intermitencia_Acelerada\Intermitencia_Acelerada\main.asm</FILE><LINE>64</LINE></repeticiones>
+  <timer><FILE>C:\Users\Javi\Documents\Atmel Studio\7.0\Intermitencia_Acelerada\Intermitencia_Acelerada\main.asm</FILE><LINE>65</LINE></timer>
+  <L1><FILE>C:\Users\Javi\Documents\Atmel Studio\7.0\Intermitencia_Acelerada\Intermitencia_Acelerada\main.asm</FILE><LINE>73</LINE></L1>
+ </LABELS>
+</ASSEMBLER_INFO>
